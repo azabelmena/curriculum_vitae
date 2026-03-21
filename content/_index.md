@@ -139,6 +139,6 @@ areas of pure and discrete mathematics.
     - `nix` declaritive system language.
 
 ### Download my CV:
-- [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf)
+- [English](https://github.com/azabelmena/curriculum_vitae/raw/english/azabelmena.pdf)
 - Spanish version coming soon.
-<!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}-->
+<!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/azabelmena.pdf){:target="_blank"}-->
