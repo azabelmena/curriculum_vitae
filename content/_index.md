@@ -1,11 +1,11 @@
 +++
-title = 'Curriculum Vitae'
+title = 'Alec S. Zabel-Mena'
 date = 2023-12-12T21:18:56-04:00
 +++
 
-## DISCLAIMER!!!
-This page is outdated. I have not had the time to update the CV.
-However, I _will_ update this page when I have the time.
+|                     |                                            |                                                         |
+|---------------------|--------------------------------------------|---------------------------------------------------------|
+| alec.zabel@upr.edu  | [azabelmena.xyz](https://azabelmena.xyz/)  | [github.com/azabelmena](https://github.com/azabelmena)  |
 
 # Education
 - B.S. Pure Mathematics, Minor in Cyber Security
@@ -13,72 +13,72 @@ However, I _will_ update this page when I have the time.
     - August 2016 -- June 2022
 - M.S. Pure Mathematics
     - University of Puerto Rico, Río Piedras
-    - In progress
-    - August 2022 -- Present
+    - August 2022 -- May 2025 (Expected)
 
-# Research
-- An Efficient Implementation and Analysis of Zeta Functions of APN Curves and
-    Their Protograph LDPC Codes for Deep Space Applications
-    - University of Puerto Rico
-    - August 2021 -- Present
-    - Researching APN functions and the classification of certain 2-error
-      correcting cyclic codes for use in cryptography and coding theory.
-    - Mentored by Professor Heeralal Janwa, Ph.D.
-- The General Linear Group: Finding 2 × 2 Representations of Finite Groups
-    - University of Puerto Rico
-    - April 2020
-    - Final project for the second undergraduate seminar in mathematics (MATE3170).
-    -  Research the general linear group on 2×2 matrices and representations of
-       well known groups using these matrices.
-    - Worked under the supervision of Professor Raúl Figueroa, Ph.D.
-- Matroid Theory
-    - University of Puerto Rico
-    - November 2019
-    - Final project for the first undergraduate seminar in mathematics (MATE3070).
-    - Gave a survey of the field of Matroid theory, and its applications in Graph
-      theory, Topology, and Algorithm Design.
-    - Worked under the supervision of Professor Iván Cardona, Ph.D.
-- Algebraic Codes over Elliptic and Hermitian Curves
-    - University of Puerto Rico
-    - May 2019
-    -  Research paper, and final project of the Introduction to Coding Theory course.
-    - Studied and found algebraic geometric codes using elliptic and Hermitian
-      curves for use in coding theory and cryptography
-    - Worked under the supervision of Professor Heeralal Janwa, Ph.D.
+# Career Objective
+To become an academic researcher and professor. Research goals
+include topics in algebraic geometry, matroid theory, and other
+areas of pure and discrete mathematics.
 
-# Grants, Scholarships, and Awards
-- NASA PR Space Grant Fellowships and Scholarship Program (No. 80NSSC20M0052)
-    - University of Puerto Rico
-    - August 2022 -- May 2023
-- Puerto Rico Louis Stokes Alliance for Minority Participation
-    - University of Puerto Rico
-    - August 2021 -- May 2021
-- NASA PR Fall Research Assistantship (No. 80NSSC20M0052)
-    - University of Puerto Rico
-    - August 2023 -- December 2023
+# Research Interests
+
+|                       |                                   |
+|-----------------------|-----------------------------------|
+| Commutative Algebra   | Graph Theory and Combinatorics    |
+|  Algebraic Geometry   | Matroid Theory                    |
+| Finite Fields         | Category Theory and Type Theory   |
 
 # Publications
-- Works in Preperation
-    - Janwa H., Zabel-Mena, A., An Efficient Implementation and Analysis of Zeta
-    Functions of APN Curves and Their Protograph LDPC Codes for Deep Space
-    Applications
+  - Agrinsoni, C.A., Janwa, H., Zabel-Mena, A.S. _Absolute
+    Irreducibility of Generalized Trinomials Defined by APN
+    Functions of the form \(g(x)=2^{2^ie}+h(x)\) over
+    \(\mathbb{F}_{2^s}\)_. Springer Proceedings in Mathematics &
+    Statistics, (Submitted). 2025.
 
-# Presentations and Talks
+# Talks, Seminars, and Colloquiums
+1. Zabel-Mena, A.S., Janwa, H., Agrinsoni, C.A. _Finding Exceptional
+  Trinomials of Given Degree Gap over \(\mathbb{F}_{q^2}\) and
+  Applications to Permutation Polynomials_ (Contributed Talk).
+  41\(^{\text{st}}\) Seminario Interuniversitario de Investigación
+  en Ciencias Matemáticas (SIDIM), Río Piedras, P.R. 2026.
+2. Zabel-Mena, A.S., Janwa, H., Agrinsoni, C.A. _Absolute
+   Irreducibility of Generalized Trinomials defined by APN Functions
+   of The Form \(g(x)=2^{2^ie}+h(x)\) over \(\mathbb{F}_{2^s}\)_
+   (Contributed Talk). 40\(^{\text{st}}\) Seminario
+   Interuniversitario de Investigación
+  en Ciencias Matemáticas (SIDIM), Ponce, P.R. 2026.
+3. Zabel-Mena, A.S., Janwa, H., Agrinsoni, C.A. _Absolute
+   Irreducibility of Generalized Trinomials defined by APN Functions
+   of The Form \(g(x)=2^{2^ie}+h(x)\) over \(\mathbb{F}_{2^s}\)_
+   (Contributed Talk). 56\(^{\text{th}}\) Southeastern International
+   Conference on Combinatorics, Graph Theory & Computing (SEICCGTC),
+   Boca Raton, Florida. 2025.
+4. Zabel-Mena, A.S., Janwa, H., Agrinsoni, C.A. _An Efficient
+   Implementation and Analysis of Zeta Functions of APN Curves and
+   Their Protograph LDPC Codes_ (Contributed Talk). 39\(^{\text{th}}\)
+   Seminario Interuniversitario de Investigación en Ciencias Matemáticas
+   (SIDIM), Humacao, P.R. 2024.
+5. Zabel-Mena, A.S., Janwa, H., Agrinsoni, C.A. _An Efficient
+   Implementation and Analysis of Zeta Functions of APN Curves and
+   Their Protograph LDPC Codes_ (Poster Session). Forward Research
+   and Innovation Summit, San Juan, P.R. 2023.
 
-- Zabel-Mena, Alec S., Janwa Heeralal, Agrisoni, Carlos, (2024, March). An
-Efficient Implementation and Analysis Of Zeta Functions Of APN Curves and Their
-Protograph LDPC Codes [contributed talk].39th Seminario Interuniversitario de
-Investicación en Ciencias Matemáticas (SIDIM), Humacao, PR.
-
-- Zabel-Mena, Alec S., Janwa Heeralal, Agrisoni, Carlos, (2023, November 30). An
-Efficient Implementation and Analysis Of Zeta Functions Of APN Curves and Their
-Protograph LDPC Codes [poster session]. 2023 Forward Research Innovation Summit,
-San Juan, PR.
-
-- Zabel-Mena, Alec S., (2022, April 09). An Efficient Implementation of Computing
-The Rational Points and Zeta-functions of Curves Associated with APN Monomials
-and Applications to Cyclic codes [minisymposium talk]. 55th ACS Junior Technical
-Meeting, Humacao, PR.
+# Grants, Scholarships, and Awards
+- Research Assistantship, NASA.
+    - Grant No, 80NSSC20M0052
+    - August 2025 -- December 2025
+- PR Space Grant Fellowship and Scholarship Program, NASA.
+    - Grant No, 80NSSC20M0052
+    - August 2024 -- May 2025
+- Research Assistantship, NASA.
+    - Grant No, 80NSSC20M0052
+    - January 2024 -- May 2024
+- Research Assistantship, NASA.
+    - Grant No, 80NSSC20M0052
+    - August 2023 -- December 2023
+- PR Space Grant Fellowship and Scholarship Program, NASA.
+    - Grant No, 80NSSC20M0052
+    - August 2022 -- May 2023
 
 # Teaching
 - Proyecto Tutorías DECEP
@@ -101,20 +101,28 @@ Meeting, Humacao, PR.
           subjects of Algebra, Pre-Calculus, and Geometry for two times a week, at
           two hours for each session.
 
-# Honors
-- Deans List
-    - 2016 -- 2021
-
 # Memberships and Affiliations
-- Asociación de Estudiantes de Ciencias de Cómputos (AECC)
-    - 2022 -- Present
-- Asociación Estundiantil de Matemáticas (AeMAT)
+- Consejo General de Estudiantes (UPR-RP)
+    - Representante ante el Consejo de Estudios Graduados e Investigación
+    - August 2024 -- May 2025
+- Consejo de Estudiantes de Ciencias Naturales (UPR-RP)
+    - Representante ante el Decanato de Estudios Graduados e Investigación
+    - August 2024 --  May 2025
+- Consejo de Estudiantes de Ciencias Naturales (UPR-RP)
+    - Representante Graduado del Departamento de Matemáticas
+    - August 2023 --  May 2024
+- Asociación Estudiantil de Matemáticas (A\(\varepsilon\)M\(\alpha\)T)
     - 2019 -- Present
-    - Treasurer
-- Senzala Capoeira
-    - 2016 -- Present
-- CEO of HTMX
-    - 2023 -- Present
+    - Treasurer (August 2025 --  May 2026)
+    - Treasurer (August 2022 --  May 2024)
+- Asociación de Estudiantes de Ciencias de Computos (AECC)
+    - 2019 -- 2026
+- Lembrança Negra Capoeira
+    - 2017 -- 2019
+    - Corda Cura-Verde
+- Senzala Capoeira, Puerto Rico (Sou Capoeira)
+    - 2019 -- Present
+    - Corda Amarela-Laranja
 
 # Skills
 - Languages
@@ -123,15 +131,13 @@ Meeting, Humacao, PR.
     - Portuguese
 - Software
     - LaTeX
-    - Knowledge of \*NIX systems and the commandline to streamline workflow and
-      automate repetetive tasks
-    - Knowledge of high performance computing and systems
-    - Privacy and Security Oriented
-    - `C` programming
-    - `nix`
+    - `C` programming language
+    - Python programming language
+    - `SAGE` mathematics software
+    - `linux`
+    - `nix` declaritive system language.
 
-### Download my CV (English):
+### Download my CV:
 - [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf)
-    - The English version is currently out of date.
 - Spanish version coming soon.
 <!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}-->
