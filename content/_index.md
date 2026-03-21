@@ -3,6 +3,11 @@ title = 'Alec S. Zabel-Mena'
 date = 2023-12-12T21:18:56-04:00
 +++
 
+|                     |                                            |                                                         |
+|---------------------|--------------------------------------------|---------------------------------------------------------|
+| alec.zabel@upr.edu  | [azabelmena.xyz](https://azabelmena.xyz/)  | [github.com/azabelmena](https://github.com/azabelmena)  |
+
+
 # Education
 - B.S. Pure Mathematics, Minor in Cyber Security
     - University of Puerto Rico, Río Piedras
