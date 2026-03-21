@@ -1,57 +1,18 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Medium Length Professional CV
-% LaTeX Template
-% Version 2.0 (8/5/13)
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% Original author:
-% Rishi Shah
-%
-% Important note:
-% This template requires the resume.cls file to be in the same directory as the
-% .tex file. The resume.cls file provides the resume style used for structuring the
-% document.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
-
 \documentclass{resume}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{spectral}
 
 \usepackage[left=1in,top=0.5in,right=0.5in,bottom=1in]{geometry}
 \usepackage{multicol}
 \usepackage{amsmath,amsfonts,amsthm,amssymb,mathtools,hyperref,mathrsfs}
 
-\usepackage{listings} % for placeholder images
-\lstdefinestyle{mystyle}{
-  commentstyle=\color{codegreen},
-  keywordstyle=\color{magenta},
-  numberstyle=\tiny\color{codegray},
-  stringstyle=\color{codepurple},
-  basicstyle=\ttfamily,
-  breakatwhitespace=false,
-  breaklines=true,
-  captionpos=b,
-  keepspaces=true,
-  numbers=left,
-  numbersep=5pt,
-  showspaces=false,
-  showstringspaces=false,
-  showtabs=false,
-  tabsize=2
-}
-\lstset{style=mystyle}
-\AtBeginEnvironment{tabular}{\ttfamily}
-
 \name{Alec S. Zabel-Mena}
 \address{
-  alec.zabel@upr.edu \\
-  azabelmena.xyz  \\
-  github.com/azabelmena
+  \texttt{alec.zabel@upr.edu} \\
+  \texttt{azabelmena.xyz}  \\
+  \texttt{github.com/azabelmena}
 }
 
 \begin{document}
@@ -68,9 +29,9 @@
 \end{rSection}
 
 \begin{rSection}{Career Objective}
-  To become an academic researcher and professor. Aiming to research both pure
-  and applied mathematics; specifically research in algebraic
-  geometry, coding theory, and other areas of discrete mathematics.
+  To become an academic researcher and professor. Research goals
+  include topics in algebraic geometry, matroid theory, and other
+  areas of pure and discrete mathematics.
 \end{rSection}
 
 \begin{rSection}{Research Interests}
@@ -105,6 +66,15 @@
 
 \begin{rSection}{Talks, Seminars, and Colloquiums}
   \begin{enumerate}
+
+    \item Zabel-Mena, A.S, Janwa, H., Agrinsoni, C.A.
+      \textit{Finding Exceptional Trinomials of Given Degree-Gap
+        over $\mathbb{F}_{q^2}$ and Applications to Permutation
+      Polynomials} (Contributed Talk).
+      $41$\textsuperscript{th}  Seminario Interuniversitario de
+      Investigaci\'on en Ciencias Matem\'aticas (SIDIM), R\'io
+      Piedras, P.R. $2026$.
+
     \item \textit{Zabel-Mena, A.S.}, Janwa, H. Agrinsoni, C.A.
       \textit{Absolute Irreducibility of Generalized
         Trinomials Defined by APN Functions of The Form
@@ -135,6 +105,8 @@
       Juan P.R. $2023$.
   \end{enumerate}
 \end{rSection}
+
+\pagebreak
 
 \begin{rSection}{Grants and Awards}
   \textbf{PR Space Grant Fellowship and Scholarship Program}, NASA
@@ -185,21 +157,20 @@
 \end{rSection}
 
 \begin{rSection}{Affiliations}
-  \textbf{Consejo General de Estudiantes} (UPRRP)
+  \textbf{Consejo General de Estudiantes} (URP-RP)
             \hfill August $2024$ -- May $2025$  \\
   Representante ante el Consejo de Estudios Graduados e
   Investigaci\'on \\
 
-  \textbf{Consejo de Estudiantes de Ciencias Naturales} (UPRRP)
+  \textbf{Consejo de Estudiantes de Ciencias Naturales} (URP-RP)
             \hfill August $2024$ -- May $2025$  \\
   Representante ante el Decanato de Estudios Graduados e
   Investigaci\'on \\
 
-  \textbf{Asociaci\'on Estudiantil de Matem\'aticas} (AeMAT)
+  \textbf{Asociaci\'on Estudiantil de Matem\'aticas} (A\varepsilon{M}\alpha{T})
             \hfill $2019$ -- Present \medskip \\
     Treasurer \hfill August $2025$ -- May $2026$ \\
-    {\footnotesize Post yet to be assumed}.  \medskip \\
-    Treasurer \hfill August $2022$ -- May $2024$ \\
+    \hspace*{10cm} \hfill August $2022$ -- May $2024$ \\
 
   \textbf{Asociaci\'on de Estudiantes de Ciencias de Computos} (AECC)
             \hfill $2019$ --  Present \\
@@ -208,7 +179,7 @@
   Corda Crua-Verde  \\
 
   \textbf{Senzala Capoeira} (Sou Capoeira) \hfill $2019$ -- Present \\
-  Corda Crua-Laranja  \\
+  Corda Amarela-Laranja  \\
 
   %\textbf{CEO of HTMX} \hfill $2023$ -- Present \\
   %CEO
@@ -228,15 +199,15 @@
   \begin{itemize}
     \item[] \LaTeX
 
-    \item[] \lstinline{C} programming
+    \item[] \texttt{C} programming
 
-    \item[] \lstinline{Python} programming language
+    \item[] \texttt{Python} programming language
 
-    \item[] \lstinline{SAGE} mathematics Software
+    \item[] \texttt{SAGE} mathematics Software
 
-    \item[] \lstinline{linux}
+    \item[] \texttt{linux}
 
-    \item[] \lstinline{nix}
+    \item[] \texttt{nix} declaritive package manager.
   \end{itemize}
 \end{rSection}
 
