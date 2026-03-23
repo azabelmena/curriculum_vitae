@@ -1,0 +1,17 @@
+name: Build LaTeX document
+on: [push]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v6
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: azabelmena.tex
+      - name: Upload CV
+        uses: actions/upload-artifact@v6
+        with:
+          name: PDF
+          path: azabelmena1.pdf
