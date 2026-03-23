@@ -5,7 +5,7 @@ date = 2023-12-12T21:18:56-04:00
 
 |                     |                                            |                                                         |
 |---------------------|--------------------------------------------|---------------------------------------------------------|
-| alec.zabel@upr.edu  | [azabelmena.xyz](https://azabelmena.xyz/)  | [github.com/azabelmena](https://github.com/azabelmena)  |
+| alec.zabel@upr.edu  |                                            | [github.com/azabelmena](https://github.com/azabelmena)  |
 
 
 # Education
