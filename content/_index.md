@@ -112,7 +112,7 @@ areas of pure and discrete mathematics.
 - Consejo de Estudiantes de Ciencias Naturales (UPR-RP)
     - Representante Graduado del Departamento de Matemáticas
     - August 2023 --  May 2024
-- Asociación Estudiantil de Matemáticas (A\(\varepsilon\)M\(\alpha\)T)
+- Asociación Estudiantil de Matemáticas (A\(\varepsilon\)M\(\alpha\)\(\tau\))
     - 2019 -- Present
     - Treasurer (August 2025 --  May 2026)
     - Treasurer (August 2022 --  May 2024)
