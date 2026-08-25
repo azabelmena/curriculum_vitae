@@ -9,15 +9,15 @@ date = 2023-12-12T21:18:56-04:00
 
 
 # Education
-- Ph.D. Pure Mathematics
-    - University of Puerto Rico, Río Piedras
-    - August 2026 -- Present
-- M.S. Pure Mathematics
-    - University of Puerto Rico, Río Piedras
-    - August 2022 -- August 2026
-- B.S. Pure Mathematics, Minor in Cyber Security
-    - University of Puerto Rico, Río Piedras
-    - August 2016 -- June 2022
+Ph.D. Pure Mathematics
+  - University of Puerto Rico, Río Piedras
+  - August 2026 -- Present
+M.S. Pure Mathematics
+  - University of Puerto Rico, Río Piedras
+  - August 2022 -- August 2026
+B.S. Pure Mathematics, Minor in Cyber Security
+  - University of Puerto Rico, Río Piedras
+  - August 2016 -- June 2022
 
 # Career Objective
 To become an academic researcher and professor. Research goals
