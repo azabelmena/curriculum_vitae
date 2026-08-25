@@ -1,5 +1,5 @@
 +++
-title = 'Alec S. Zabel-Mena'
+title = 'Alec S. Zabel-Mena, M.S.'
 date = 2023-12-12T21:18:56-04:00
 +++
 
@@ -9,12 +9,15 @@ date = 2023-12-12T21:18:56-04:00
 
 
 # Education
+- Ph.D. Pure Mathematics
+    - University of Puerto Rico, Río Piedras
+    - August 2026 -- Present
+- M.S. Pure Mathematics
+    - University of Puerto Rico, Río Piedras
+    - August 2022 -- August 2026
 - B.S. Pure Mathematics, Minor in Cyber Security
     - University of Puerto Rico, Río Piedras
     - August 2016 -- June 2022
-- M.S. Pure Mathematics
-    - University of Puerto Rico, Río Piedras
-    - August 2022 -- May 2025 (Expected)
 
 # Career Objective
 To become an academic researcher and professor. Research goals
@@ -26,15 +29,19 @@ areas of pure and discrete mathematics.
 |                       |                                   |
 |-----------------------|-----------------------------------|
 | Commutative Algebra   | Graph Theory and Combinatorics    |
-|  Algebraic Geometry   | Matroid Theory                    |
+| Algebraic Geometry    | Matroid Theory                    |
 | Finite Fields         | Category Theory and Type Theory   |
 
 # Publications
-  - Agrinsoni, C.A., Janwa, H., Zabel-Mena, A.S. _Absolute
-    Irreducibility of Generalized Trinomials Defined by APN
-    Functions of the form \(g(x)=2^{2^ie}+h(x)\) over
-    \(\mathbb{F}_{2^s}\)_. Springer Proceedings in Mathematics &
-    Statistics, (Submitted). 2025.
+1. _Zabel-Mena, A.S._, 2026, University of Puerto Rico, Río Piedras.
+   _Studies in Absolute Irreducibility  over Finite Fields: Rational
+   Points, Singular Zeta-Functions, APN Functions, and Exceptional
+   Polynomials_, master's thesis.
+2. Agrinsoni, C.A., Janwa, H., _Zabel-Mena, A.S._, _Absolute
+   Irreducibility of Generalized Trinomials Defined by APN
+   Functions of the form \(g(x)=2^{2^ie}+h(x)\) over
+   \(\mathbb{F}_{2^s}\)_. Springer Proceedings in Mathematics &
+   Statistics, (Submitted). 2025.
 
 # Talks, Seminars, and Colloquiums
 1. Zabel-Mena, A.S., Janwa, H., Agrinsoni, C.A. _Finding Exceptional
