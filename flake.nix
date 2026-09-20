@@ -1,5 +1,5 @@
 {
-  description = "Hugo Website Flake";
+  description = "Hugo Site Flake.";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/release-26.05";
