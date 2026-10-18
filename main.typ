@@ -22,21 +22,21 @@
 
 #edu(
   institution: [University of Puerto Rico],
-  location: [Río Piedras, PR],
+  location: [Río Piedras, P.R.],
   dates: dates-helper(start-date: [August 2026], end-date: [Present]),
   degree: [Doctor of Philosophy of Science in Pure Mathematics],
 )
 
 #edu(
   institution: [University of Puerto Rico],
-  location: [Río Piedras, PR],
+  location: [Río Piedras, P.R.],
   dates: dates-helper(start-date: [August 2022], end-date: [August 2024]),
   degree: [Master of Science in Pure Mathematics],
 )
 
 #edu(
   institution: [University of Puerto Rico],
-  location: [Río Piedras, PR],
+  location: [Río Piedras, P.R.],
   dates: dates-helper(start-date: [August 2022], end-date: [August 2024]),
   degree: [
     Bachelor of Science in Pure Mathematics,
@@ -104,6 +104,12 @@
 == Grants and Awards
 
 #work(
+  title: [NSF E-Core Grant],
+  company: "National Science Foundation",
+  dates: dates-helper(start-date: "August 2026", end-date: "Present"),
+)
+
+#work(
   title: [Research Assistantship],
   company: "NASA, Grant No. 80NSSC20M0052",
   dates: dates-helper(start-date: "August 2025", end-date: "December 2025"),
@@ -137,6 +143,22 @@
 
 #work(
   title: "Consejo General de Estudiantes (UPR-RP)",
+  company: [
+    Representante ante el Consejo de Estudios Graduados e Investigación (Alterno)
+  ],
+  dates: dates-helper(start-date: "August 2026", end-date: "May 2027"),
+)
+
+#work(
+  title: [Consejo de Estudiantes de la Facultad de Ciencias Naturales (UPR-RP)],
+  company: [
+    Representante ante el Consejo General de Estudiantes (UPR-RP)
+  ],
+  dates: dates-helper(start-date: "August 2024", end-date: "May 2025"),
+)
+
+#work(
+  title: "Consejo General de Estudiantes (UPR-RP)",
   company: "Representante ante el Consejo de Estudios Graduados e Investigación",
   dates: dates-helper(start-date: "August 2024", end-date: "May 2025"),
 )
@@ -155,7 +177,6 @@
 
 #work(
   title: [Asociación de Estudiantes de Ciencias de Computos (AECC)],
-  company: [Tresurer (August 2022 --- May 2024), (August 2025 --- May 2026)],
   dates: dates-helper(start-date: "2019", end-date: "2026"),
 )
 
